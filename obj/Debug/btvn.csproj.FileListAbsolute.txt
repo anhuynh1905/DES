@@ -1,0 +1,10 @@
+D:\NMMMH\DES\btvn\bin\Debug\btvn.exe.config
+D:\NMMMH\DES\btvn\bin\Debug\btvn.exe
+D:\NMMMH\DES\btvn\bin\Debug\btvn.pdb
+D:\NMMMH\DES\btvn\obj\Debug\btvn.csproj.AssemblyReference.cache
+D:\NMMMH\DES\btvn\obj\Debug\btvn.Form1.resources
+D:\NMMMH\DES\btvn\obj\Debug\btvn.Properties.Resources.resources
+D:\NMMMH\DES\btvn\obj\Debug\btvn.csproj.GenerateResource.cache
+D:\NMMMH\DES\btvn\obj\Debug\btvn.csproj.CoreCompileInputs.cache
+D:\NMMMH\DES\btvn\obj\Debug\btvn.exe
+D:\NMMMH\DES\btvn\obj\Debug\btvn.pdb
